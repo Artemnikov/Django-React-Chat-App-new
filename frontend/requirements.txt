@@ -1,0 +1,6 @@
+asgiref
+Django
+setuptools
+sqlparse
+wheel
+tzdata
