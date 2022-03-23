@@ -1,5 +1,7 @@
 ===backend===
+
 for image python
+
 pip install -r requirements.txt
 
 python manage.py runserver 8000  <-- run the server on port 8000
