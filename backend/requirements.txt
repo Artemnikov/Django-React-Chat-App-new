@@ -9,7 +9,7 @@ charset-normalizer
 click
 colorama
 constantly
-drf_msal_jwtdaphne
+# drf_msal_jwtdaphne
 distlib
 django-filter
 django-jwt-auth
